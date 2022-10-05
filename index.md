@@ -1,11 +1,12 @@
-# Wireless Sensors & Drones in IoT
-{: style="text-align: center"}
+---
+layout: page
+title: Wireless Sensors & Drones in IoT
+subtitle: Wi-DroIT 2023
+cover-img: "assets/img/banner.png"
+---
 
-# Wi-DroIT 2023
-{: style="text-align: center"}
 
-![image](/logo.png)
-{: style="text-align: center"}
+
 
 _5th International Workshop on_
 {: style="text-align: center"}
@@ -27,6 +28,7 @@ Coral Bay, Pafos, Cyprus
 
 
 ## Scope
+{: style="color:#32a852"}
 
 Recently, the rapid development of Unmanned Autonomous Vehicles (UAVs), also known as drones, has highlighted a plethora of emergent applications such as infrastructure inspection and surveillance, smart agriculture, seek and rescue, parcel delivery, communications, and post-disaster recovery. In all these applications UAVs may coexist with ground Internet of Things (IoT) devices. For example, UAVs autonomously perform remote sensing relaying the collected data by the sensors. 
 Additionally, one or more UAVs can collaborate to provide services that require efficient protocols where multiple objectives and constraints need to be considered.
@@ -38,6 +40,7 @@ For this workshop, we seek papers that combine the design of algorithms and test
 
 
 ## Topics of Interest
+{: style="color:#32a852"}
 
 - Autonomous sensing via UAVs
 - Topology monitoring with UAVs
@@ -66,6 +69,7 @@ For this workshop, we seek papers that combine the design of algorithms and test
 
 
 ## Important dates
+{: style="color:#32a852"}
 
 - **Paper Submission**: March 10, 2023 AoE
 - **Acceptance Notification**: April 10, 2023
@@ -77,6 +81,7 @@ For this workshop, we seek papers that combine the design of algorithms and test
 * * *
 
 ## Author information
+{: style="color:#32a852"}
 
 Authors are invited to submit original unpublished manuscripts that demonstrate current research on distributed sensor systems related to Wi-DroIT topics of interest. Please use the US letter size (8.5 x 11 in) standard IEEE conference LaTeX format or Microsoft Word template available [here](http://www.ieee.org/conferences_events/conferences/publishing/templates.html):
 {: style="text-align: justify"}
@@ -87,27 +92,34 @@ Note that Wi-DroIT does not follow the double-blind review policy. The names and
 
 
 ## Committees
+{: style="color:#32a852"}
 
 ### Workshop Chairs
+{: style="color:#32a852"}
 - **Federico Corò**: University of Perugia, Italy
 - **Panagiotis Kolios**: KIOS Research and Innovation Center of Excellence, University of Cyprus
   
 ### Steering Committee
+{: style="color:#32a852"}
 - **Enrico Natalizio**: University of Loraine, France
 - **Cristina M. Pinotti**: University of Perugia, Italy
 - **Francesco Betti Sorbelli**: University of Perugia, Italy
   
 ### Program Committee
+{: style="color:#32a852"}
 TBD
 
 ### Publicity Chair
+{: style="color:#32a852"}
 - **Ashish Gupta**: Missouri University of Science and Technology, USA
 
 ### Web Chair
+{: style="color:#32a852"}
 - **Rafael Makrigiorgis**: KIOS Research and Innovation Center of Excellence, University of Cyprus
 
   
 ## Past editions
+{: style="color:#32a852"}
 - [Wi-DroIT 2022](https://widroit2022.github.io)
 - [Wi-DroIT 2021](https://widroit2021.github.io)
 - [Wi-DroIT 2020](https://sites.google.com/view/widroit2020/home)
