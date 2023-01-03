@@ -23,7 +23,7 @@ Coral Bay, Pafos, Cyprus
 **co-located with [DCOSS 2023](https://dcoss.org/)**
 {: style="text-align: center"}
 
-**Submission link: [click here]()**
+**Submission link: [click here](https://easychair.org/my/conference?conf=widroit2023)**
 {: style="text-align: center"}
 
 
@@ -107,7 +107,22 @@ Note that Wi-DroIT does not follow the double-blind review policy. The names and
   
 ### Program Committee
 {: style="color:#32a852"}
-TBD
+- **Savio Sciancalepore**: Eindhoven University of Technology (TU/e)
+- **Farshad Ghanei**: University at Buffalo
+- **Antonis Savva**: KIOS Research and Innovation Centre of Excellence, University of Cyprus
+- **Punyasha Chatterjee**: Jadavpur University
+- **Constantinos Heracleous**: University of Cyprus
+- **Chengyi Qu**: University of Missouri
+- **Pietro Tedeschi**: Technology Innovation Institute, Autonomous Robotics Research Center
+- **Dimitrios Zorbas**: Tyndall National Institute
+- **Lorenzo Palazzetti**: Università degli Studi di Firenze
+- **Angelo Trotta**: University of Bologna
+- **Alessandro Brighente**: University of Padova
+- **Alfredo Navarra**: Università degli Studi di Perugia
+- **Satyaki Roy**: University of North Carolina, Chapel Hill
+- **Eirini Tsiropoulou**: University of New Mexico
+- **Lars Wolf**: TU Baunschweig
+- **Ashish Gupta**: Missouri University of Science and Technology
 
 ### Publicity Chair
 {: style="color:#32a852"}
