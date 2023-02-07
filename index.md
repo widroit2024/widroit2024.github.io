@@ -110,6 +110,7 @@ Note that Wi-DroIT does not follow the double-blind review policy. The names and
 - **Savio Sciancalepore**: Eindhoven University of Technology (TU/e)
 - **Farshad Ghanei**: University at Buffalo
 - **Antonis Savva**: KIOS Research and Innovation Centre of Excellence, University of Cyprus
+- **Savvas Papaioannou**: KIOS Research and Innovation Centre of Excellence, University of Cyprus
 - **Punyasha Chatterjee**: Jadavpur University
 - **Constantinos Heracleous**: University of Cyprus
 - **Chengyi Qu**: University of Missouri
