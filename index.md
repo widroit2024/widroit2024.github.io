@@ -115,7 +115,7 @@ Note that Wi-DroIT does not follow the double-blind review policy. The names and
 - **Constantinos Heracleous**: University of Cyprus
 - **Chengyi Qu**: University of Missouri
 - **Pietro Tedeschi**: Technology Innovation Institute, Autonomous Robotics Research Center
-- **Dimitrios Zorbas**: Tyndall National Institute
+- **Dimitrios Zorbas**: Nazarbayev University, Kazakhstan
 - **Lorenzo Palazzetti**: Università degli Studi di Firenze
 - **Angelo Trotta**: University of Bologna
 - **Alessandro Brighente**: University of Padova
