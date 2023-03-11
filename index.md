@@ -71,8 +71,8 @@ For this workshop, we seek papers that combine the design of algorithms and test
 ## Important dates
 {: style="color:#32a852"}
 
-- **Paper Submission**: March 10, 2023 AoE
-- **Acceptance Notification**: April 10, 2023
+- **Paper Submission**: ~~March 10~~ **April 10**, 2023 AoE 
+- **Acceptance Notification**: ~~April 10~~ **April 30**, 2023 
 - **Camera Ready**: May 7, 2023
 - **Early Registration**: TBD
 - **Workshop Day**: TBD
