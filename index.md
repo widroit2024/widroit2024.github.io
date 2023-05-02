@@ -74,8 +74,7 @@ For this workshop, we seek papers that combine the design of algorithms and test
 - **Paper Submission**: ~~March 10~~ **April 10**, 2023 AoE 
 - **Acceptance Notification**: ~~April 10~~ **April 30**, 2023 
 - **Camera Ready**: May 7, 2023
-- **Early Registration**: TBD
-- **Workshop Day**: TBD
+- **Workshop Day**: June 19th, morning (to be confirmed)
 
 
 * * *
@@ -133,7 +132,10 @@ Note that Wi-DroIT does not follow the double-blind review policy. The names and
 {: style="color:#32a852"}
 - **Rafael Makrigiorgis**: KIOS Research and Innovation Center of Excellence, University of Cyprus
 
-  
+## Program
+{: style="color:#32a852"}
+TBD
+
 ## Past editions
 {: style="color:#32a852"}
 - [Wi-DroIT 2022](https://widroit2022.github.io)
