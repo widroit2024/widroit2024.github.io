@@ -73,8 +73,8 @@ For this workshop, we seek papers that combine the design of algorithms and test
 
 - **Paper Submission**: ~~March 10~~ **April 10**, 2023 AoE 
 - **Acceptance Notification**: ~~April 10~~ **April 30**, 2023 
-- **Camera Ready**: May 7, 2023
-- **Workshop Day**: June 19th, morning (to be confirmed)
+- **Camera Ready**: May 19, firm (https://dcoss.org/camera-ready-instructions/) 
+- **Workshop Day**: June 20th, afternoon
 
 
 * * *
