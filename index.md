@@ -134,7 +134,34 @@ Note that Wi-DroIT does not follow the double-blind review policy. The names and
 
 ## Program
 {: style="color:#32a852"}
-TBD
+14.00 – 14:05: Opening
+
+### Session: 1
+14:05 – 14:30: Supporting geographically widespread UAV swarms through graph-based network relaying
+David Clerigues, Jamie Wubben, Carlos Calafate, Juan-Carlos Cano and Pietro Manzoni
+
+14:30 – 14:55: A Fault-Tolerant Distributed Air-to-Ground Communication Architecture for Urban Air Mobility
+Shashini Thamarasie Wanniarachchi and Volker Turau
+
+14:55 – 15:20: Reinforcement Learning-based Countermeasures against Attacking UAV Swarms
+Jennifer Simonjan, Kseniia Harshina and Melanie Schranz
+
+15:20 – 15:45: Land & Localize: An Infrastructure-free and Scalable Nano-Drones Swarm with UWB-based Localization
+Mahyar Pourjabar, Ahmed Alkatheeri, Manuele Rusci, Agata Barcis, Vlad Niculescu, Eliseo Ferrante, Daniele Palossi and Luca Benini
+
+15:45 – 16:10: Coffee Break
+
+### Session: 2
+16:10 – 16:35: Positioning, Navigation, and Timing on the Air
+Md Sadman Siraj, Aisha B Rahman, Panagiotis Charatsaris, Eirini Eleni Tsiropoulou and Symeon Papavassiliou
+
+16:35 – 17:00: Deep Reinforcement Learning for Combined Coverage and Resource Allocation in UAV-Aided RAN-Slicing
+Lorenzo Bellone, Boris Galkin, Emiliano Traversi and Enrico Natalizio
+
+17:00 – 17:25: A Multi-task Learning Framework for Drone State Identification and Trajectory Prediction
+Antreas Palamas, Nicolas Souli, Tania Panayiotou, Panayiotis Kolios and Georgios Ellinas
+
+17:25: Closing Wi-DroIT
 
 ## Past editions
 {: style="color:#32a852"}
