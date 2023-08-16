@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Wireless Sensors & Drones in IoT
-subtitle: Wi-DroIT 2023
+subtitle: Wi-DroIT 2024
 cover-img: "assets/img/banner.png"
 ---
 
 
 
 
-_5th International Workshop on_
+_6th International Workshop on_
 {: style="text-align: center"}
 
 _Wireless Sensors and Drones in Internet of Things (Wi-DroIT) 2023_
@@ -17,10 +17,10 @@ _Wireless Sensors and Drones in Internet of Things (Wi-DroIT) 2023_
 Coral Bay, Pafos, Cyprus
 {: style="text-align: center"}
 
-**June 19-21, 2023**
+**month XY-ZX, 2024**
 {: style="text-align: center"}
 
-**co-located with [DCOSS 2023](https://dcoss.org/)**
+**co-located with [DCOSS 2024](https://dcoss.org/)**
 {: style="text-align: center"}
 
 **Submission link: [click here](https://easychair.org/my/conference?conf=widroit2023)**
@@ -39,7 +39,7 @@ For this workshop, we seek papers that combine the design of algorithms and test
 {: style="text-align: justify"}
 
 
-## Topics of Interest
+## Topics of Interest {To be modified}
 {: style="color:#32a852"}
 
 - Autonomous sensing via UAVs
@@ -71,10 +71,10 @@ For this workshop, we seek papers that combine the design of algorithms and test
 ## Important dates
 {: style="color:#32a852"}
 
-- **Paper Submission**: ~~March 10~~ **April 10**, 2023 AoE 
-- **Acceptance Notification**: ~~April 10~~ **April 30**, 2023 
-- **Camera Ready**: May 19, firm - [Instructions](https://dcoss.org/camera-ready-instructions/) 
-- **Workshop Day**: June 20th, afternoon
+- **Paper Submission**: ~~March 10~~ **Month XY**, 2024 AoE 
+- **Acceptance Notification**: ~~April 10~~ **Month ZZ**, 2024 
+- **Camera Ready**: Month DD, firm - [Instructions](https://dcoss.org/camera-ready-instructions/) 
+- **Workshop Day**:  Month DD, afternoon
 
 
 * * *
@@ -90,21 +90,21 @@ Note that Wi-DroIT does not follow the double-blind review policy. The names and
 {: style="text-align: justify"}
 
 
-## Committees
+## Committees {To be modified}
 {: style="color:#32a852"}
 
-### Workshop Chairs
+### Workshop Chairs {To be modified}
 {: style="color:#32a852"}
 - **Federico Corò**: University of Perugia, Italy
 - **Panagiotis Kolios**: KIOS Research and Innovation Center of Excellence, University of Cyprus
   
-### Steering Committee
+### Steering Committee {To be modified}
 {: style="color:#32a852"}
 - **Enrico Natalizio**: University of Loraine, France
 - **Cristina M. Pinotti**: University of Perugia, Italy
 - **Francesco Betti Sorbelli**: University of Perugia, Italy
   
-### Program Committee
+### Program Committee {To be modified}
 {: style="color:#32a852"}
 - **Savio Sciancalepore**: Eindhoven University of Technology (TU/e)
 - **Farshad Ghanei**: University at Buffalo
@@ -124,15 +124,15 @@ Note that Wi-DroIT does not follow the double-blind review policy. The names and
 - **Lars Wolf**: TU Baunschweig
 - **Ashish Gupta**: Missouri University of Science and Technology
 
-### Publicity Chair
+### Publicity Chair {To be modified}
 {: style="color:#32a852"}
 - **Ashish Gupta**: Missouri University of Science and Technology, USA
 
 ### Web Chair
 {: style="color:#32a852"}
-- **Rafael Makrigiorgis**: KIOS Research and Innovation Center of Excellence, University of Cyprus
+- **Pulak Majumdar**: Indian Institute of Engineering Sciences and Technology, Shibpur, Howrah
 
-## Program
+## Program {To be modified}
 {: style="color:#32a852"}
 14.00 – 14:05: Opening
 
@@ -165,6 +165,7 @@ Antreas Palamas, Nicolas Souli, Tania Panayiotou, Panayiotis Kolios and Georgios
 
 ## Past editions
 {: style="color:#32a852"}
+- [Wi-DroIT 2023](https://widroit2023.github.io)
 - [Wi-DroIT 2022](https://widroit2022.github.io)
 - [Wi-DroIT 2021](https://widroit2021.github.io)
 - [Wi-DroIT 2020](https://sites.google.com/view/widroit2020/home)
