@@ -17,7 +17,7 @@ _Wireless Sensors and Drones in Internet of Things (Wi-DroIT) 2024_
 Abu Dhabi, United Arab Emirates
 {: style="text-align: center"}
 
-**April 29 - MAy 1, 2024**
+**April 29 - May 1, 2024**
 {: style="text-align: center"}
 
 **co-located with [DCOSS 2024](https://dcoss.org/)**
