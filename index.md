@@ -11,19 +11,19 @@ cover-img: "assets/img/banner.png"
 _6th International Workshop on_
 {: style="text-align: center"}
 
-_Wireless Sensors and Drones in Internet of Things (Wi-DroIT) 2023_
+_Wireless Sensors and Drones in Internet of Things (Wi-DroIT) 2024_
 {: style="text-align: center"}
 
-Coral Bay, Pafos, Cyprus
+Abu Dhabi, United Arab Emirates
 {: style="text-align: center"}
 
-**month XY-ZX, 2024**
+**April 29 - MAy 1, 2024**
 {: style="text-align: center"}
 
 **co-located with [DCOSS 2024](https://dcoss.org/)**
 {: style="text-align: center"}
 
-**Submission link: [click here](https://easychair.org/my/conference?conf=widroit2023)**
+**Submission link: TBA**
 {: style="text-align: center"}
 
 
@@ -39,7 +39,7 @@ For this workshop, we seek papers that combine the design of algorithms and test
 {: style="text-align: justify"}
 
 
-## Topics of Interest {To be modified}
+## Topics of Interest
 {: style="color:#32a852"}
 
 - Autonomous sensing via UAVs
@@ -71,97 +71,39 @@ For this workshop, we seek papers that combine the design of algorithms and test
 ## Important dates
 {: style="color:#32a852"}
 
-- **Paper Submission**: ~~March 10~~ **Month XY**, 2024 AoE 
-- **Acceptance Notification**: ~~April 10~~ **Month ZZ**, 2024 
-- **Camera Ready**: Month DD, firm - [Instructions](https://dcoss.org/camera-ready-instructions/) 
-- **Workshop Day**:  Month DD, afternoon
+TBA
 
 
 * * *
 
-## Author information
+
+## Committees
 {: style="color:#32a852"}
 
-Authors are invited to submit original unpublished manuscripts that demonstrate current research on distributed sensor systems related to Wi-DroIT topics of interest. Please use the US letter size (8.5 x 11 in) standard IEEE conference LaTeX format or Microsoft Word template available [here](http://www.ieee.org/conferences_events/conferences/publishing/templates.html):
-{: style="text-align: justify"}
-
-All submissions should be written in English and submitted as a full paper. Full papers should have a maximum of eight (8) printed pages including figures and references. Full papers are expected to describe fully developed ideas with a thorough evaluation.
-Note that Wi-DroIT does not follow the double-blind review policy. The names and affiliations of all the authors must be present in the submitted manuscript.
-{: style="text-align: justify"}
-
-
-## Committees {To be modified}
+### Workshop Chairs
 {: style="color:#32a852"}
+- **Evgenii Vinogradov**: Technology Innovation Institute, United Arab Emirates
+- **Federico Corò**: University of Padova, Italy
+- **Nirnay Ghosh**: Indian Institute of Engineering Science and Technology Shibpur, India
 
-### Workshop Chairs {To be modified}
+### Steering Committee
 {: style="color:#32a852"}
-- **Federico Corò**: University of Perugia, Italy
-- **Panagiotis Kolios**: KIOS Research and Innovation Center of Excellence, University of Cyprus
-  
-### Steering Committee {To be modified}
-{: style="color:#32a852"}
-- **Enrico Natalizio**: University of Loraine, France
+- **Enrico Natalizio**: Technology Innovation Institute, United Arab Emirates
 - **Cristina M. Pinotti**: University of Perugia, Italy
 - **Francesco Betti Sorbelli**: University of Perugia, Italy
   
-### Program Committee {To be modified}
+### Program Committee
 {: style="color:#32a852"}
-- **Savio Sciancalepore**: Eindhoven University of Technology (TU/e)
-- **Farshad Ghanei**: University at Buffalo
-- **Antonis Savva**: KIOS Research and Innovation Centre of Excellence, University of Cyprus
-- **Savvas Papaioannou**: KIOS Research and Innovation Centre of Excellence, University of Cyprus
-- **Punyasha Chatterjee**: Jadavpur University
-- **Constantinos Heracleous**: University of Cyprus
-- **Chengyi Qu**: University of Missouri
-- **Pietro Tedeschi**: Technology Innovation Institute, Autonomous Robotics Research Center
-- **Dimitrios Zorbas**: Nazarbayev University, Kazakhstan
-- **Lorenzo Palazzetti**: Università degli Studi di Firenze
-- **Angelo Trotta**: University of Bologna
-- **Alessandro Brighente**: University of Padova
-- **Alfredo Navarra**: Università degli Studi di Perugia
-- **Satyaki Roy**: University of North Carolina, Chapel Hill
-- **Eirini Tsiropoulou**: University of New Mexico
-- **Lars Wolf**: TU Baunschweig
-- **Ashish Gupta**: Missouri University of Science and Technology
+TBA
 
-### Publicity Chair {To be modified}
+### Publicity Chair
 {: style="color:#32a852"}
-- **Ashish Gupta**: Missouri University of Science and Technology, USA
+- **Lorenzo Palazzetti**: Università degli Studi di Firenze
 
 ### Web Chair
 {: style="color:#32a852"}
-- **Pulak Majumdar**: Indian Institute of Engineering Sciences and Technology, Shibpur, Howrah
+- **Pulak Majumdar**: Indian Institute of Engineering Science and Technology Shibpur, India
 
-## Program {To be modified}
-{: style="color:#32a852"}
-14.00 – 14:05: Opening
-
-### Session: 1
-14:05 – 14:30: Supporting geographically widespread UAV swarms through graph-based network relaying
-David Clerigues, Jamie Wubben, Carlos Calafate, Juan-Carlos Cano and Pietro Manzoni
-
-14:30 – 14:55: A Fault-Tolerant Distributed Air-to-Ground Communication Architecture for Urban Air Mobility
-Shashini Thamarasie Wanniarachchi and Volker Turau
-
-14:55 – 15:20: Reinforcement Learning-based Countermeasures against Attacking UAV Swarms
-Jennifer Simonjan, Kseniia Harshina and Melanie Schranz
-
-15:20 – 15:45: Land & Localize: An Infrastructure-free and Scalable Nano-Drones Swarm with UWB-based Localization
-Mahyar Pourjabar, Ahmed Alkatheeri, Manuele Rusci, Agata Barcis, Vlad Niculescu, Eliseo Ferrante, Daniele Palossi and Luca Benini
-
-15:45 – 16:10: Coffee Break
-
-### Session: 2
-16:10 – 16:35: Positioning, Navigation, and Timing on the Air
-Md Sadman Siraj, Aisha B Rahman, Panagiotis Charatsaris, Eirini Eleni Tsiropoulou and Symeon Papavassiliou
-
-16:35 – 17:00: Deep Reinforcement Learning for Combined Coverage and Resource Allocation in UAV-Aided RAN-Slicing
-Lorenzo Bellone, Boris Galkin, Emiliano Traversi and Enrico Natalizio
-
-17:00 – 17:25: A Multi-task Learning Framework for Drone State Identification and Trajectory Prediction
-Antreas Palamas, Nicolas Souli, Tania Panayiotou, Panayiotis Kolios and Georgios Ellinas
-
-17:25: Closing Wi-DroIT
 
 ## Past editions
 {: style="color:#32a852"}
