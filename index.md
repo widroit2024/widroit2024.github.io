@@ -73,7 +73,7 @@ For this workshop, we seek papers that combine the design of algorithms and test
 
 - **Paper Submission**: February 16, 2024 
 - **Acceptance Notification**:  March 8, 2024 
-- **Camera Ready**: March 29, 2024 <!--firm - [Instructions](https://dcoss.org/camera-ready-instructions/) -->
+- **Camera Ready Deadline**: March 29, 2024 <!--firm - [Instructions](https://dcoss.org/camera-ready-instructions/) -->
 <!-- - **Workshop Day**: June 20th, afternoon -->
 
 
