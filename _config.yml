@@ -24,9 +24,9 @@ navbar-links:
   Scope: /#scope
   Topics of Interest: /#topics-of-interest
   Important Dates: /#important-dates
-  Author Information: /#author-information
+  # Author Information: /#author-information
   Committees: /#committees
-  Program: /#program
+  # Program: /#program
   
 
 ################
