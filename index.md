@@ -11,7 +11,7 @@ cover-img: "assets/img/banner.png"
 _6th International Workshop on_
 {: style="text-align: center"}
 
-_Wireless Sensors and Drones in Internet of Things (Wi-DroIT) 2024_
+_Wireless Sensors and Drones in the Internet of Things (Wi-DroIT) 2024_
 {: style="text-align: center"}
 
 Abu Dhabi, United Arab Emirates
