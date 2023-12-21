@@ -97,7 +97,22 @@ For this workshop, we seek papers that combine the design of algorithms and test
   
 ### Program Committee
 {: style="color:#32a852"}
-TBA
+- **Alessandro Brighente**: University of Padova
+- **Alfredo Navarra**: Università degli Studi di Perugia
+- **Antonis Savva**: KIOS Research and Innovation Centre of Excellence, University of Cyprus
+- **Chengyi Qu**: Florida Gulf Coast University
+- **Dimitrios Zorbas**: Nazarbayev University, Kazakhstan
+- **Eirini Tsiropoulou**: University of New Mexico
+- **Lars Wolf**: TU Baunschweig
+- **Lorenzo Palazzetti**: Università degli Studi di Firenze
+- **Luca Davoli**: University of Parma
+- **Nicola Roberto Zema**: University of Paris-Saclay
+- **Pietro Tedeschi**: Technology Innovation Institute
+- **Punyasha Chatterjee**: Jadavpur University
+- **Savio Sciancalepore**: Eindhoven University of Technology (TU/e)
+- **Tathagata Mukherjee**: University of Alabama in Huntsville
+
+
 
 ### Publicity Chair
 {: style="color:#32a852"}
