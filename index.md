@@ -23,7 +23,7 @@ Abu Dhabi, United Arab Emirates
 **co-located with [DCOSS 2024](https://dcoss.org/)**
 {: style="text-align: center"}
 
-**Submission link: TBA**
+**Submission link: [click here](https://easychair.org/conferences/?conf=widroit2024 )**
 {: style="text-align: center"}
 
 
@@ -111,6 +111,7 @@ For this workshop, we seek papers that combine the design of algorithms and test
 - **Punyasha Chatterjee**: Jadavpur University
 - **Savio Sciancalepore**: Eindhoven University of Technology (TU/e)
 - **Tathagata Mukherjee**: University of Alabama in Huntsville
+- **Sajjad Ghobadi**: University of Perugia
 
 
 
