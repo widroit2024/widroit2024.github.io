@@ -79,6 +79,16 @@ For this workshop, we seek papers that combine the design of algorithms and test
 
 * * *
 
+## Author information
+{: style="color:#32a852"}
+
+Authors are invited to submit original unpublished manuscripts that demonstrate current research on distributed sensor systems related to Wi-DroIT topics of interest. Please use the US letter size (8.5 x 11 in) standard IEEE conference LaTeX format or Microsoft Word template available [here](http://www.ieee.org/conferences_events/conferences/publishing/templates.html):
+{: style="text-align: justify"}
+
+All submissions should be written in English and submitted as a full paper. Full papers should have a maximum of eight (8) printed pages including figures and references. Full papers are expected to describe fully developed ideas with a thorough evaluation.
+Note that Wi-DroIT does not follow the double-blind review policy. The names and affiliations of all the authors must be present in the submitted manuscript.
+{: style="text-align: justify"}
+
 
 ## Committees
 {: style="color:#32a852"}
