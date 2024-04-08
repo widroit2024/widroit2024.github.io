@@ -140,79 +140,78 @@ Note that Wi-DroIT does not follow the double-blind review policy. The names and
 10:30-10:35: Workshop opening
 
 
-### Session: 4 
+### Session: 1  [Chair: Evgenii Vinogradov]
 
 
-10:35-10:55: Optimizing RF-Sensing for Drone Detection: The Synergy of Ensemble
-Learning and Sensor Fusion, Laiba Tanveer, Muhammad Zeshan Alam, Maham Misbah,
+10:35-10:55: "*Optimizing RF-Sensing for Drone Detection: The Synergy of Ensemble
+Learning and Sensor Fusion*", Laiba Tanveer, Muhammad Zeshan Alam, Maham Misbah,
 Farooq Alam Orakazi, Ahmed Alkhayyat and Zeeshan Kaleem
 
 
-10:55-11:15: Should I Stay or Should I Go: A Learning Approach for Drone-based
-Sensing Applications, Giorgos Polychronis, Manos Koutsoubelias and Spyros Lalis
+10:55-11:15: "*Should I Stay or Should I Go: A Learning Approach for Drone-based
+Sensing Applications*", Giorgos Polychronis, Manos Koutsoubelias and Spyros Lalis
 
 
-11:15-11:35: A Bi-Layer Joint Training Reinforcement Learning Framework for PostDisaster Rescue, Songjun Huang, Chuanneng Sun, Jie Gong and Dario Pompili
+11:15-11:35: "*A Bi-Layer Joint Training Reinforcement Learning Framework for PostDisaster Rescue*", Songjun Huang, Chuanneng Sun, Jie Gong and Dario Pompili
 
 
-11:35-11:55: A Multi-task Transformer Architecture for Drone State Identification and
-Trajectory Prediction, Nikolas Souli, Andreas Palamas, Tania Panayiotou, Panayiotis
+11:35-11:55: "*A Multi-task Transformer Architecture for Drone State Identification and
+Trajectory Prediction*", Nikolas Souli, Andreas Palamas, Tania Panayiotou, Panayiotis
 Kolios and Georgios Ellinas
 
 
-11:55-12:15: Optimizing UAV Base Station Positioning Through Quantum-Inspired
-Solution Workflow, M Saravanan and Viswanath Pathmanaban
+11:55-12:15: "*Optimizing UAV Base Station Positioning Through Quantum-Inspired
+Solution Workflow*", M Saravanan and Viswanath Pathmanaban
 
 
-12:15-12:35: Differentiated QoS DDPG-based Slicing and Drone Positioning for Next
-Generation Networks, Ghoshana Bista, Abbas Bradai and Emmanuel Moulay
+12:15-12:35: "*Differentiated QoS DDPG-based Slicing and Drone Positioning for Next
+Generation Networks*", Ghoshana Bista, Abbas Bradai and Emmanuel Moulay
 
 
-12:35-13:00: Keynote Talk "A Comprehensive Pest Monitoring System for Brown
-Marmorated Stink Bug"
-Dr. Francesco Betti Sorbelli, Università di Perugia, Italy
+12:35-13:00: Invited Talk: Francesco Betti Sorbelli, "*A Comprehensive Pest Monitoring System for
+Brown Marmorated Stink Bug*"
 
 
 13:00-14:00: Lunch
 
 
-### Session: 5
+### Session: 2  [Chair: Evgenii Vinogradov]
 
-14:00-14:55: Keynote Talk "Automating Digital Twins in IoT-Drone Ecosystems"
+14:00-14:55: Keynote Talk: "*Automating Digital Twins in IoT-Drone Ecosystems*"
 Prof. Marco Di Felice, Università di Bologna, Italy
 
 
-14:55-15:15: Risk Assessment in BVLoS Operations for UAVs: Challenges and Solutions,
+14:55-15:15: "*Risk Assessment in BVLoS Operations for UAVs: Challenges and Solutions*",
 Francesco Betti Sorbelli, Punyasha Chatterjee, Papiya Das and Maria Cristina Pinotti
 
 
 15:15-15:30: Coffee break
 
 
-### Session: 6
+### Session: 3  [Chair: Francesco Betti Sorbelli]
 
 
-15:30-15:50: Experimental analysis of Wi-Fi-based remote control of UAVs with
-concurrent mission traffic, Thierry Arrabal, Théotime Balaguer, Isabelle Guérin-Lassous
+15:30-15:50: "*Experimental analysis of Wi-Fi-based remote control of UAVs with
+concurrent mission traffic*", Thierry Arrabal, Théotime Balaguer, Isabelle Guérin-Lassous
 and Olivier Simonin
 
 
-15:50-16:10: Risk Assessment in BVLoS Operations for UAVs: Challenges and Solutions,
-Francesco Betti Sorbelli, Punyasha Chatterjee, Papiya Das and Maria Cristina Pinotti
+15:50-16:10: "*Empirical evaluation of multi UAV coverage path planning for aerial surveying*"
+, Jamie Wubben, Jo˜ao P. Matos-Carvalho, D´ario Pedro and Slavisa Tomic
 
 
-16:10-16:30: Empirical evaluation of multi UAV coverage path planning for aerial
-surveying, Jamie Wubben, João P. Matos-Carvalho, Dário Pedro and Slavisa Tomic
-
-
-16:30-16:50: An Over the Air Software Update System for IoT Microcontrollers based on
-WebAssembly, Ivan Zyrianoff, Luca Sciullo, Lorenzo Gigli, Angelo Trotta, Carlos Alberto
+16:10-16:30: "*An Over the Air Software Update System for IoT Microcontrollers based on
+WebAssembly*", Ivan Zyrianoff, Luca Sciullo, Lorenzo Gigli, Angelo Trotta, Carlos Alberto
 Kamienski and Marco Di Felice
 
 
-16:50-17:10: A Deep Learning-based Pest Insect Monitoring System for Ultra-low Power
-Pocket-sized Drones, Luca Crupi, Luca Butera, Alberto Ferrante and Daniele Palossi
+16:30-16:50: "*A Deep Learning-based Pest Insect Monitoring System for Ultra-low Power
+Pocket-sized Drones*", Luca Crupi, Luca Butera, Alberto Ferrante and Daniele Palossi
 
+
+16:50 - 17:10: "*An Adaptive Drone-based Multigenerational Sensor System for Monitoring Large
+Ecosystems*" , Ravi Mukkamala, Stephan Olariu, Meshari Aljohani, Mohan Sunkara and Hind
+Aldabagh,
 
 17:10-17:15: Closing Remarks
 
